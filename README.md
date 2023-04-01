@@ -18,7 +18,7 @@
 
 上面这个网站，当你在复制私钥的时候，网站会将你复制的私钥加密，然后上传到后台服务：
 
-<img width="100%" src="https://github.com/GG4mida/tronpretty/blob/main/screenshot/1.png?raw=true"/>
+<img width="100%" src="https://github.com/magical2023/vanity-trx/blob/main/screenshot/1.png?raw=true"/>
 
 缺乏技术知识的人根本无法识别类似服务是否可以满足自己的安全诉求。
 
