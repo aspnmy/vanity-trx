@@ -14,7 +14,7 @@
 
 现在市面上的靓号生成服务，基本上都无法放心使用，要么打包成离线软件，要么在背后偷偷上传私钥。举个例子：
 
-[https://rareaddress.io](https://rareaddress.io)
+[https://rareaddress.io](https://rareaddress.io) 这是个钓鱼网站
 
 上面这个网站，当你在复制私钥的时候，网站会将你复制的私钥加密，然后上传到后台服务：
 
@@ -28,9 +28,9 @@
 
 ### 这个呢？
 
-`tronpretty` 是完全离线的地址生成和靓号检测方案。建议你下载源码，先进行代码审计，然后离线运行该工具。
+`vanity-trx` 是完全离线的地址生成和靓号检测方案。建议你下载源码，先进行代码审计，然后离线运行该工具。
 
-关于 `tronweb`，请参阅波场官方文档：[https://cn.developers.tron.network/reference/tronweb-object](https://cn.developers.tron.network/reference/tronweb-object)
+关于 `vanity-trx`，请参阅波场官方文档：[https://cn.developers.tron.network/reference/tronweb-object](https://cn.developers.tron.network/reference/tronweb-object)
 
 前端利用了 `webworker` 进行多线程处理，提升靓号生成及匹配速度。
 
@@ -44,7 +44,7 @@
 
 然后就可以跑起来了，效果如下：
 
-<img width="100%" src="https://github.com/GG4mida/tronpretty/blob/main/screenshot/2.png?raw=true"/>
+<img width="100%" src="https://github.com/magical2023/vanity-trx/blob/main/screenshot/2.png?raw=true"/>
 
 ### 安全说明
 
@@ -106,4 +106,4 @@ async function generateAccount() {
 
 ### 有问题咨询？
 
-- telegram: https://t.me/jackslowfak
+- telegram: https://t.me/lookonblock
