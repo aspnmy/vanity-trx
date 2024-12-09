@@ -9,14 +9,14 @@
 
 现在市面上的靓号生成服务，基本上都无法放心使用，要么打包成离线软件，要么在背后偷偷上传私钥。举个例子：
 
-注意，这是个钓鱼网站 [https://rareaddress.io](https://rareaddress.io)
-注意，这是个钓鱼网站 [https://viptrx.pro/](https://viptrx.pro/)
-注意，这是个钓鱼网站 [https://raretrx.pro//](https://raretrx.pro/)
-注意，这是个钓鱼网站 [https://www.ratetrx.com/](https://www.ratetrx.com/)
-注意下面这个页面造型的全部是钓鱼网站
-<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/3.png?raw=true"/>
-<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/4.png?raw=true"/>
-<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/5.png?raw=true"/>
+- 注意，这是个钓鱼网站 [https://rareaddress.io](https://rareaddress.io)
+- 注意，这是个钓鱼网站 [https://viptrx.pro/](https://viptrx.pro/)
+- 注意，这是个钓鱼网站 [https://raretrx.pro//](https://raretrx.pro/)
+- 注意，这是个钓鱼网站 [https://www.ratetrx.com/](https://www.ratetrx.com/)
+- 注意下面这个页面造型的全部是钓鱼网站
+<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/3.jpg?raw=true"/>
+<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/4.jpg?raw=true"/>
+<img width="100%" src="https://github.com/aspnmy/vanity-trx/blob/main/screenshot/5.jpg?raw=true"/>
 上面这个网站，当你在复制私钥的时候，网站会将你复制的私钥加密，然后上传到后台服务：
 
 <img width="100%" src="https://github.com/magical2023/vanity-trx/blob/main/screenshot/1.png?raw=true"/>
